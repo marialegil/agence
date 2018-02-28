@@ -29,7 +29,7 @@
         </nav>
         <div class="container">
             @yield('content')
-            <a data-url="https://https://mariagil-agence.herokuapp.com/" style="display:none;" id="raiz"></a>
+            <a data-url="https://mariagil-agence.herokuapp.com/" style="display:none;" id="raiz"></a>
 
         </div>
 
