@@ -7,9 +7,9 @@
         <title>Agence Interativa</title>
 
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="{{ asset('htps://mariagil-agence.herokuapp.com/css/bootstrap.min.css')}}">
-        <link rel="stylesheet" href="{{ asset('htps://mariagil-agence.herokuapp.com/font-awesome/css/font-awesome.min.css')}}" />
-        <link rel="stylesheet" href="{{ asset('htps://mariagil-agence.herokuapp.com/css/bootstrap-multiselect.min.css')}}" />
+        <link rel="stylesheet" href="{{ asset('https://mariagil-agence.herokuapp.com/css/bootstrap.min.css')}}">
+        <link rel="stylesheet" href="{{ asset('https://mariagil-agence.herokuapp.com/font-awesome/css/font-awesome.min.css')}}" />
+        <link rel="stylesheet" href="{{ asset('https://mariagil-agence.herokuapp.com/css/bootstrap-multiselect.min.css')}}" />
     </head>
     <body>
         <nav class="navbar navbar-default">
@@ -33,11 +33,11 @@
 
         </div>
 
-        <script src="{{ asset('htps://mariagil-agence.herokuapp.com/js/jquery-2.1.4.min.js')}}"></script>
-        <script src="{{ asset('htps://mariagil-agence.herokuapp.com/js/bootstrap.min.js')}}"></script>
-        <script src="{{ asset('htps://mariagil-agence.herokuapp.com/js/bootstrap-multiselect.min.js')}}"></script>
-        <script src="{{ asset('htps://mariagil-agence.herokuapp.com/js/chart.min.js')}}"></script>
-        <script src="{{ asset('htps://mariagil-agence.herokuapp.com/js/scripts.js')}}"></script>
+        <script src="{{ asset('https://mariagil-agence.herokuapp.com/js/jquery-2.1.4.min.js')}}"></script>
+        <script src="{{ asset('https://mariagil-agence.herokuapp.com/js/bootstrap.min.js')}}"></script>
+        <script src="{{ asset('https://mariagil-agence.herokuapp.com/js/bootstrap-multiselect.min.js')}}"></script>
+        <script src="{{ asset('https://mariagil-agence.herokuapp.com/js/chart.min.js')}}"></script>
+        <script src="{{ asset('https://mariagil-agence.herokuapp.com/js/scripts.js')}}"></script>
 
     </body>
 </html>
